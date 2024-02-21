@@ -13,7 +13,7 @@ This flow uses a Lightning Web Component to redirect to a new record page. @svie
 
 # Dowload Link
 
-If you are looking to install this in your salesforce instance, check get the unmanaged package [here](https://g2technologies.com/pages/quote-clone-sign-up)
+If you are looking to install this in your salesforce instance, check get the unmanaged package [here](https://www.1sync.co/quote-clone-sign-up)
 
 # Tutorial
 
